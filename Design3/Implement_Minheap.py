@@ -1,4 +1,5 @@
-
+#TimeComplexity: O(1)
+#SpaceComplexity: O(n)
 class Minheap:
     def __init__(self):
         self.heap=[] # craeting heap array
